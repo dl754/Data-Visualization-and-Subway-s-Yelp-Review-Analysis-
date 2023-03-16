@@ -30,11 +30,10 @@ His team tells him not to worry by making the following statements:
 
 1. Part A: Does the data support the statement made by the Head of Customer Service?
 2. Part B: Is this statement valid across all states? 
-![alt text]([https://github.com/dl754/Newsvendor-with-Monte-Carlo-Simulation--Optimal-Production-Level/blob/main/output.png](https://github.com/dl754/Subways-Yelp-Reviews-Analysis-and-Data-Visualization/blob/main/Visualizaiton/Fig1_Rating_Trends.png)
+![alt text](https://github.com/dl754/Subways-Yelp-Reviews-Analysis-and-Data-Visualization/blob/main/Visualizaiton/Fig1_Rating_Trends.png)
 
 
-![alt text]([https://github.com/dl754/Newsvendor-with-Monte-Carlo-Simulation--Optimal-Production-Level/blob/main/output.png](https://github.com/dl754/Subways-Yelp-Reviews-Analysis-and-Data-Visualization/blob/main/Visualizaiton/Fig1_Rating_Trends.png](https://github.com/dl754/Subways-Yelp-Reviews-Analysis-and-Data-Visualization/blob/main/Visualizaiton/Fig2_Nationalwide_Rating_Trends.png)
-
+![alt text](https://github.com/dl754/Subways-Yelp-Reviews-Analysis-and-Data-Visualization/blob/main/Visualizaiton/Fig2_Nationalwide_Rating_Trends.png)
 In summary, the data does not support the statement made by the Head of Customer Service that Subway's average rating has been consistently increasing since 2006. While there is no clear increasing or decreasing trend from 2006 to 2014 due to a small number of ratings, the average rating remains between 2.0 to 3.0 as the number of ratings increases.
 
 Furthermore, a plot was generated to compare the average rating and number of ratings in four states (FL, CA, PA, and IL) from 2006 to 2022. From 2012 to 2020, the average rating across these states ranged from 1.5 to 3.5, and there is a slightly decreasing trend in rating from 2015 to 2021. However, PA and FL ratings show a trend of increasing in 2021 and onwards. While the data is representative and meaningful, the analysis suggests that Subway's average rating is not consistently high across all states.

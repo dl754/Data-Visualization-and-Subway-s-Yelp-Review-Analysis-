@@ -2,8 +2,6 @@
 
 This project aimed to assist Subway CEO John Chidsey in addressing the Subway Reviews Problem by analyzing Yelp's review data and creating informative visuals tailored to address the concerns of each level of management. The project was conducted as part of the Cornell University MSBA BANA 5440 Statistical Programming Course.
 
-![alt text](https://github.com/dl754/Subways-Yelp-Reviews-Analysis-and-Data-Visualization/blob/main/Visualizaiton/Fig1_Rating_Trends.png)
-
 ## Table of Contents
 1. [Demonstrated Skills](#demonstrated-skills)
 2. [Background](#Background)

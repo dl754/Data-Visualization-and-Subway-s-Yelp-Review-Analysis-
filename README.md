@@ -12,9 +12,8 @@ This project aimed to assist Subway CEO John Chidsey in addressing the Subway Re
 5. [License](#License)
 
 ## Demonstrated Skills
-* Python 3
-* NumPy
-* Matplotlib
+* Data Cleaning using Pandas
+* Data Visualizaiton using Matplotlib
 
 
 ## Background

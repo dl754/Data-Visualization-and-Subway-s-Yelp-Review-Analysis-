@@ -71,11 +71,7 @@ For Part B, the plot shows a clear trend of a decrease in ratings as the size of
 Part A: The data supports the statement made by the Chief Data Scientist that customers tend to leave a rating when they are extremely unsatisfied or happy with the shops, but does not support the claim that online ratings are unreliable.
 Part B: The statement is true across all years from 2018 to 2021, as shown by the consistently higher number of one and five-star ratings compared to two, three, and four-star ratings.
 
-![alt text](https://github.com/dl754/Subways-Yelp-Reviews-Analysis-and-Data-Visualization/blob/main/Visualizaiton/Fig5_Ratings_Mesurement.png)
+![alt text](https://github.com/dl754/Subways-Yelp-Reviews-Analysis-and-Data-Visualization/blob/main/Visualizaiton/Fig7_Number_Ratings_Years.png)
 
 Based on the insights generated from questions 1 through 4, the recommendation would be to improve Subway's average rating to a 3.5-4/5 by addressing the prevalent issues that drive customers to leave one and two-star ratings. This could be achieved by analyzing the feedback from these customers, identifying and fixing the root causes of their dissatisfaction. While the target of 4.5/5 may be too high for a national fast-food chain like Subway, an improvement in ratings is possible and necessary to address customer dissatisfaction and improve overall business performance.
-
-
-
-
 

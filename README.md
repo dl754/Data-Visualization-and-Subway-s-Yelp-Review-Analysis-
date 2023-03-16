@@ -11,7 +11,7 @@ This project aimed to assist Subway CEO John Chidsey in addressing the Subway Re
 4. [Results](#Results)
 5. [License](#License)
 
-## Demonstrated Skills
+## Demonstrated_Skills
 * Data Cleaning using Pandas
 * Data Visualizaiton using Matplotlib
 

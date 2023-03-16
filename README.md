@@ -5,9 +5,8 @@ This project aimed to assist Subway CEO John Chidsey in addressing the Subway Re
 ## Table of Contents
 1. [Demonstrated Skills](#demonstrated-skills)
 2. [Background](#Background)
-3. [Usage](#Usage)
-4. [Results](#Results)
-5. [License](#License)
+3. [Results](#Results)
+
 
 ## Demonstrated Skills
 * Data Cleaning using Pandas
@@ -26,43 +25,19 @@ His team tells him not to worry by making the following statements:
 *	Chief Data Scientist: “It is well known that customers make the effort to give a rating only when they are either extremely angry or absolutely delighted with the     service. So online ratings are not reliable.”
 
 
-## Usage
-
-To run the simulation, simply input Command:
-  simul = 1000
-  ps = ProfitStimulation(simul)
-  ps.loop_manufactured(). 
-  
-This will create an instance of the ProfitSimulation class with simul number of simulations, and then call the loop_manufactured method to perform the simulation and plot the results. You can adjust the value of simul to increase or decrease the number of simulations performed. Additionally, you can modify the parameters passed to the __init__ method of the ProfitSimulation class to simulate different scenarios.
-
 
 ## Results
 
-![alt text](https://github.com/dl754/Newsvendor-with-Monte-Carlo-Simulation--Optimal-Production-Level/blob/main/output.png)
+1. Part A: Does the data support the statement made by the Head of Customer Service?
+2. Part B: Is this statement valid across all states? 
+![alt text]([https://github.com/dl754/Newsvendor-with-Monte-Carlo-Simulation--Optimal-Production-Level/blob/main/output.png](https://github.com/dl754/Subways-Yelp-Reviews-Analysis-and-Data-Visualization/blob/main/Visualizaiton/Fig1_Rating_Trends.png)
+
+
+![alt text]([https://github.com/dl754/Newsvendor-with-Monte-Carlo-Simulation--Optimal-Production-Level/blob/main/output.png](https://github.com/dl754/Subways-Yelp-Reviews-Analysis-and-Data-Visualization/blob/main/Visualizaiton/Fig1_Rating_Trends.png](https://github.com/dl754/Subways-Yelp-Reviews-Analysis-and-Data-Visualization/blob/main/Visualizaiton/Fig2_Nationalwide_Rating_Trends.png)
+
+In summary, the data does not support the statement made by the Head of Customer Service that Subway's average rating has been consistently increasing since 2006. While there is no clear increasing or decreasing trend from 2006 to 2014 due to a small number of ratings, the average rating remains between 2.0 to 3.0 as the number of ratings increases.
+
+Furthermore, a plot was generated to compare the average rating and number of ratings in four states (FL, CA, PA, and IL) from 2006 to 2022. From 2012 to 2020, the average rating across these states ranged from 1.5 to 3.5, and there is a slightly decreasing trend in rating from 2015 to 2021. However, PA and FL ratings show a trend of increasing in 2021 and onwards. While the data is representative and meaningful, the analysis suggests that Subway's average rating is not consistently high across all states.
 
 
 Optimal Production Units: 169, Maximized Profit: $17365.719
-
-## License
-
-MIT License
-
-Copyright (c) [2023] [Konstantin Liu]
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.

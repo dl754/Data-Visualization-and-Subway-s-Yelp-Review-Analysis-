@@ -5,11 +5,17 @@ This project aimed to assist Subway CEO John Chidsey in addressing the Subway Re
 ![alt text](https://github.com/dl754/Subways-Yelp-Reviews-Analysis-and-Data-Visualization/blob/main/Visualizaiton/Fig1_Rating_Trends.png)
 
 ## Table of Contents
-1. [Background](#Background)
-2. [Requirements](#Requirements)
+1. [Demonstrated Skills](#Demonstrated Skills)
+2. [Background](#Background)
 3. [Usage](#Usage)
 4. [Results](#Results)
 5. [License](#License)
+
+## Demonstrated Skills
+* Python 3
+* NumPy
+* Matplotlib
+
 
 ## Background
 
@@ -17,17 +23,11 @@ Subway CEO John Chidsey received a report from his field officer that customers 
 John calls for an urgent meeting of the Head of Customer Service, the Head of Store Operations, the Head of Social Media, and the Chief Data Scientist (your boss). He expresses his concern and urges the team to take measures to improve the average ratings received across all stores in the U.S. to 4.5/5.
 His team tells him not to worry by making the following statements: 
 
-●	Head of Customer Service: “Our ratings are gradually improving, and we will soon reach 4.5/5.”
-●	Head of Store Operations: “Sandwiches are a tricky business. All sandwich chains suffer from poor customer ratings.”
-●	Head of Social Media: “The goal of 4.5/5 is unreasonable for national chains like us. Only small, local, and boutique restaurants can achieve such high ratings.”
-●	Chief Data Scientist: “It is well known that customers make the effort to give a rating only when they are either extremely angry or absolutely delighted with the service. So online ratings are not reliable.”
+* Head of Customer Service: “Our ratings are gradually improving, and we will soon reach 4.5/5.”
+* Head of Store Operations: “Sandwiches are a tricky business. All sandwich chains suffer from poor customer ratings.”
+* Head of Social Media: “The goal of 4.5/5 is unreasonable for national chains like us. Only small, local, and boutique restaurants can achieve such high ratings.”
+*	Chief Data Scientist: “It is well known that customers make the effort to give a rating only when they are either extremely angry or absolutely delighted with the     service. So online ratings are not reliable.”
 
-
-## Requirements<a name="Requirements"></a>
-
-* Python 3
-* NumPy
-* Matplotlib
 
 ## Usage
 

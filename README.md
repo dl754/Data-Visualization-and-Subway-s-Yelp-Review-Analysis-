@@ -5,7 +5,7 @@ This project aimed to assist Subway CEO John Chidsey in addressing the Subway Re
 ![alt text](https://github.com/dl754/Subways-Yelp-Reviews-Analysis-and-Data-Visualization/blob/main/Visualizaiton/Fig1_Rating_Trends.png)
 
 ## Table of Contents
-1. [Demonstrated Skills](#Background)
+1. [Demonstrated Skills](#Demonstrated Skill)
 2. [Background](#Background)
 3. [Usage](#Usage)
 4. [Results](#Results)
